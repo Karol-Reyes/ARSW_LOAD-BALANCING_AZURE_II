@@ -57,3 +57,7 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 * Informe
 
 - Las respuestas al laboratorio se encuentran en el siguiente [informe](/INFORME.md)
+
+## Video
+
+[Video Aqui](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/karol_rodriguez-r_mail_escuelaing_edu_co/IQCzqFWmPQnsQ7BUvdVfW8r4AeoD9SAiEVtrpyfcEdzK2_0?e=iM3h82&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
