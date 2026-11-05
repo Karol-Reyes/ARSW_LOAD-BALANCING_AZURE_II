@@ -1,6 +1,11 @@
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
 
+## Integrantes
+
+- Juan David Moreno D'Aleman
+- Karol Ximena Rodriguez Reyes
+
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
 ### Dependencias
@@ -50,3 +55,9 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 * ¿Por qué la memoization falla o no funciona de forma correcta?
 * ¿Cómo funciona el sistema de facturación de las Function App?
 * Informe
+
+- Las respuestas al laboratorio se encuentran en el siguiente [informe](/INFORME.md)
+
+## Video
+
+[Video Aqui](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/karol_rodriguez-r_mail_escuelaing_edu_co/IQCzqFWmPQnsQ7BUvdVfW8r4AeoD9SAiEVtrpyfcEdzK2_0?e=iM3h82&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

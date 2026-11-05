@@ -1,0 +1,15 @@
+{
+  "info": {
+    "name": "Fibonacci",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [{
+    "name": "fib",
+    "request": {
+      "method": "POST",
+      "header": [{"key": "Content-Type", "value": "application/json"}],
+      "body": {"mode": "raw", "raw": "{\"nth\": 1000000}"},
+      "url": "https://functionfibonacci-btb9f5evhpefhyfj.eastus2-01.azurewebsites.net/api/Fibonacci"
+    }
+  }]
+}
