@@ -6,7 +6,14 @@
     "azureFunctions.deploySubpath": "FunctionProject",
     "azureFunctions.postDeployTask": "npm install",
     "azureFunctions.projectLanguage": "JavaScript",
-    "azureFunctions.projectRuntime": "~2",
+    "azureFunctions.projectRuntime": "~4",
     "debug.internalConsoleOptions": "neverOpen",
-    "azureFunctions.preDeployTask": "npm prune"
+    "azureFunctions.preDeployTask": "npm prune",
+    "python-envs.pythonProjects": [
+        {
+            "path": "functionproject",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
 }
